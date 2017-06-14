@@ -128,6 +128,6 @@ sendo necessário contratar programadores e designers para deixar o blog como o 
 Os SSGs antecipa essa parte para a criação do blog, mas depois que ele já está criado,
 configurado, personalizado, não tem mais preocupação nenhuma. Só criar conteúdo!
 
-Bora compartilhar conhecimento?
+Bora compartilhar conhecimento!
 
 Algo a compartilhar sobre o assunto? Escreva nos comentários aqui em baixo ...
